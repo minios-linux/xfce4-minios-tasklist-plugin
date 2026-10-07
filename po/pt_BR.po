@@ -1,0 +1,40 @@
+# Translations for xfce4-minios-tasklist-plugin.
+# Copyright (C) 2026 
+# This file is distributed under the same license as the xfce4-minios-tasklist-plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce4-minios-tasklist-plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-07 18:57+0300\n"
+"PO-Revision-Date: 2026-10-07 15:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: po/strings.c:3
+msgid "Window Buttons (MiniOS)"
+msgstr "Botões de Janela (MiniOS)"
+
+#: po/strings.c:4
+msgid "Window buttons with pinning and without grouped-window counters"
+msgstr "Botões de janela com fixação e sem contadores de janelas agrupadas"
+
+#: po/strings.c:5
+msgid "_Fill all available panel space"
+msgstr "_Preencher todo o espaço disponível do painel"
+
+#: po/strings.c:6
+msgid "<b>Pinned applications</b>"
+msgstr "<b>Aplicativos fixados</b>"
+
+#: po/strings.c:7
+msgid "_Pin to Taskbar"
+msgstr "_Fixar na Barra de Tarefas"
+
+#: po/strings.c:8
+msgid "_Unpin from Taskbar"
+msgstr "_Desafixar da Barra de Tarefas"

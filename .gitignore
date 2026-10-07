@@ -1,0 +1,10 @@
+/build/
+/debian/.debhelper/
+/debian/files
+/debian/debhelper-build-stamp
+/debian/*.substvars
+/debian/xfce4-minios-tasklist-plugin/
+/debian/xfce4-minios-tasklist-plugin-dbgsym/
+*.deb
+*.buildinfo
+*.changes

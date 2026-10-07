@@ -1,0 +1,58 @@
+version: 1
+checksums:
+    xfce4-minios-tasklist-plugin/de:
+        <b>Pinned applications</b>: 1cd3bfe701b521a89e422eb6410cdcc5
+        _Fill all available panel space: a7f2d142b9d607c1a1f874947f391216
+        _Pin to Taskbar: 43581653e0d198501935e6576f0cb99e
+        _Unpin from Taskbar: 90740304ffafbbc56bc03b9ddb4800e4
+        Window Buttons (MiniOS): 8a24ad1a4ebafad477ec51b9c1761a58
+        Window buttons with pinning and without grouped-window counters: 499411e9276429b2f53633e73e0f8595
+    xfce4-minios-tasklist-plugin/es:
+        <b>Pinned applications</b>: 1cd3bfe701b521a89e422eb6410cdcc5
+        _Fill all available panel space: a7f2d142b9d607c1a1f874947f391216
+        _Pin to Taskbar: 43581653e0d198501935e6576f0cb99e
+        _Unpin from Taskbar: 90740304ffafbbc56bc03b9ddb4800e4
+        Window Buttons (MiniOS): 8a24ad1a4ebafad477ec51b9c1761a58
+        Window buttons with pinning and without grouped-window counters: 499411e9276429b2f53633e73e0f8595
+    xfce4-minios-tasklist-plugin/fr:
+        <b>Pinned applications</b>: 1cd3bfe701b521a89e422eb6410cdcc5
+        _Fill all available panel space: a7f2d142b9d607c1a1f874947f391216
+        _Pin to Taskbar: 43581653e0d198501935e6576f0cb99e
+        _Unpin from Taskbar: 90740304ffafbbc56bc03b9ddb4800e4
+        Window Buttons (MiniOS): 8a24ad1a4ebafad477ec51b9c1761a58
+        Window buttons with pinning and without grouped-window counters: 499411e9276429b2f53633e73e0f8595
+    xfce4-minios-tasklist-plugin/id:
+        <b>Pinned applications</b>: 1cd3bfe701b521a89e422eb6410cdcc5
+        _Fill all available panel space: a7f2d142b9d607c1a1f874947f391216
+        _Pin to Taskbar: 43581653e0d198501935e6576f0cb99e
+        _Unpin from Taskbar: 90740304ffafbbc56bc03b9ddb4800e4
+        Window Buttons (MiniOS): 8a24ad1a4ebafad477ec51b9c1761a58
+        Window buttons with pinning and without grouped-window counters: 499411e9276429b2f53633e73e0f8595
+    xfce4-minios-tasklist-plugin/it:
+        <b>Pinned applications</b>: 1cd3bfe701b521a89e422eb6410cdcc5
+        _Fill all available panel space: a7f2d142b9d607c1a1f874947f391216
+        _Pin to Taskbar: 43581653e0d198501935e6576f0cb99e
+        _Unpin from Taskbar: 90740304ffafbbc56bc03b9ddb4800e4
+        Window Buttons (MiniOS): 8a24ad1a4ebafad477ec51b9c1761a58
+        Window buttons with pinning and without grouped-window counters: 499411e9276429b2f53633e73e0f8595
+    xfce4-minios-tasklist-plugin/pt:
+        <b>Pinned applications</b>: 1cd3bfe701b521a89e422eb6410cdcc5
+        _Fill all available panel space: a7f2d142b9d607c1a1f874947f391216
+        _Pin to Taskbar: 43581653e0d198501935e6576f0cb99e
+        _Unpin from Taskbar: 90740304ffafbbc56bc03b9ddb4800e4
+        Window Buttons (MiniOS): 8a24ad1a4ebafad477ec51b9c1761a58
+        Window buttons with pinning and without grouped-window counters: 499411e9276429b2f53633e73e0f8595
+    xfce4-minios-tasklist-plugin/pt-BR:
+        <b>Pinned applications</b>: 1cd3bfe701b521a89e422eb6410cdcc5
+        _Fill all available panel space: a7f2d142b9d607c1a1f874947f391216
+        _Pin to Taskbar: 43581653e0d198501935e6576f0cb99e
+        _Unpin from Taskbar: 90740304ffafbbc56bc03b9ddb4800e4
+        Window Buttons (MiniOS): 8a24ad1a4ebafad477ec51b9c1761a58
+        Window buttons with pinning and without grouped-window counters: 499411e9276429b2f53633e73e0f8595
+    xfce4-minios-tasklist-plugin/ru:
+        <b>Pinned applications</b>: 1cd3bfe701b521a89e422eb6410cdcc5
+        _Fill all available panel space: a7f2d142b9d607c1a1f874947f391216
+        _Pin to Taskbar: 43581653e0d198501935e6576f0cb99e
+        _Unpin from Taskbar: 90740304ffafbbc56bc03b9ddb4800e4
+        Window Buttons (MiniOS): 8a24ad1a4ebafad477ec51b9c1761a58
+        Window buttons with pinning and without grouped-window counters: 499411e9276429b2f53633e73e0f8595

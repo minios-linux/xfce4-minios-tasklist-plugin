@@ -1,0 +1,8 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Name=Window Buttons (MiniOS)
+Comment=Window buttons with pinning and without grouped-window counters
+Icon=org.xfce.panel.tasklist
+X-XFCE-Module=minios-tasklist
+X-XFCE-Internal=TRUE
+X-XFCE-API=2.0

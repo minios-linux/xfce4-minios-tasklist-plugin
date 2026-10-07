@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the xfce4-minios-tasklist-plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce4-minios-tasklist-plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-07 18:57+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: po/strings.c:3
+msgid "Window Buttons (MiniOS)"
+msgstr ""
+
+#: po/strings.c:4
+msgid "Window buttons with pinning and without grouped-window counters"
+msgstr ""
+
+#: po/strings.c:5
+msgid "_Fill all available panel space"
+msgstr ""
+
+#: po/strings.c:6
+msgid "<b>Pinned applications</b>"
+msgstr ""
+
+#: po/strings.c:7
+msgid "_Pin to Taskbar"
+msgstr ""
+
+#: po/strings.c:8
+msgid "_Unpin from Taskbar"
+msgstr ""

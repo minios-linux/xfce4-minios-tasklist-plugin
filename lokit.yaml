@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/minios-linux/lokit/master/lokit.schema.json
+languages: [de, es, fr, id, it, pt, pt-BR, ru]
+source_lang: en
+targets:
+  - name: xfce4-minios-tasklist-plugin
+    format: gettext
+    root: .
+    from:
+      - po/strings.c
+    template: po/messages.pot
+    to: po/{lang}.po
